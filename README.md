@@ -1,1 +1,0 @@
-# softplataform.github.io
