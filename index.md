@@ -8,7 +8,7 @@ Vamos supor que você é um aluno de Ciência da Computação e você gostaria m
 
 Com a Soft Plataform é possivel propor um projeto e achar mais alunos com os mesmos interesses dentro do Mackenzie, dessa forma, aprendendo juntos e desenvolvendo habilidades necessárias para área. Seu conhecimento, experiência e currículo serão melhorados e quem sabe esse projeto não viraria uma iniciação científica, um TCC ou uma empresa?
 
-**Na Soft Plataform seus projetos ganham visibilidade e se tornam realidade, seu futuro é você quem cria e suas habilidades quem desenvolve é você!**
+## Na Soft Plataform seus projetos ganham visibilidade e se tornam realidade, seu futuro é você quem cria e suas habilidades quem desenvolve é você!
 
 ### Markdown
 
