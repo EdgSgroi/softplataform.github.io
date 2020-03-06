@@ -1,6 +1,6 @@
 # O que é a Soft Plataform?
 
-É uma plataforma onde alunos da Universidade Presbiteriana Mackenzie podem tanto propor projetos quanto entrar em projetos já propostos com finalidades como: Desenvolvimento prodissional, adquirir experiência de mercado, aprender conceitos extra classe, desenovler ideias, criar empresas, criar grupos de estudo, propor eventos, exercitar interesses, conhecer novas pessoas, entre outros.
+É uma plataforma onde alunos da Universidade Presbiteriana Mackenzie podem tanto propor projetos quanto entrar em projetos já propostos com finalidades como: Desenvolvimento prodissional, adquirir experiência de mercado, aprender conceitos extra classe, desenvolver ideias, criar empresas, criar grupos de estudo, propor eventos, exercitar interesses, conhecer novas pessoas, entre outros.
 
 # Como isso vai funcionar?
 
